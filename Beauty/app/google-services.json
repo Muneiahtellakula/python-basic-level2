@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "288873857219",
+    "firebase_url": "https://beauty-1560942175039.firebaseio.com",
+    "project_id": "beauty-1560942175039",
+    "storage_bucket": "beauty-1560942175039.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288873857219:android:60c5c886a4ba3811",
+        "android_client_info": {
+          "package_name": "com.example.lenovo.beauty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "288873857219-uamjm6c4uci667536k8ukbnj5493n4uv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lenovo.beauty",
+            "certificate_hash": "e1c66ea9533c9799a3cb6e9796192016868b0388"
+          }
+        },
+        {
+          "client_id": "288873857219-4ooiklggt5lr34c595mrs6ekeatl2tca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOt6nIXBPL0bbqyNd2KtOvZ8FVXxCCt2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "288873857219-4ooiklggt5lr34c595mrs6ekeatl2tca.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

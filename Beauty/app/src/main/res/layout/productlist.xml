@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/layout"
+    android:orientation="vertical">
+    <android.support.v7.widget.CardView
+        style="@style/mainlay">
+
+        <ImageView
+            android:layout_width="180dp"
+            android:layout_height="180dp"
+            android:id="@+id/proimg"
+            android:scaleType="fitXY"
+            android:layout_margin="@dimen/promarg"
+            android:src="@mipmap/ic_launcher"/>
+    </android.support.v7.widget.CardView>
+
+</LinearLayout>

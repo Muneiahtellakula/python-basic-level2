@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Beauty</string>
+    <string name="rating">Rating : </string>
+    <string name="discription">Discription : </string>
+    <string name="add_favourate_movies">Add to Favourite</string>
+    <string name="favourtes">Favourite</string>
+    <string name="price">Price : </string>
+    <string name="name">Name : </string>
+    <string name="brand">Brand : </string>
+    <string name="updated_at">Updated_at : </string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="favourateproduct">Favorite Product</string>
+    <string name="products">Products</string>
+    <string name="mobileadd">Mobileadd</string>
+</resources>
